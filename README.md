@@ -24,8 +24,8 @@
 
 ![image](https://github.com/nkishore2210/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118707090/d53fd444-833b-421a-9444-da959cb34575)
 
-### Name: KISHORE N
-### Register Number: 212222240049
+### Name: MANO KARTHICK S
+### Register Number: 212222230077
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
